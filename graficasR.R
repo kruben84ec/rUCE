@@ -1,0 +1,9 @@
+q();
+source("C:\\Users\\crmir\\Documents\\UCE\\estadistica\\practicas_R\\leer_csv.R")
+data1<-read.csv("C:\Users\crmir\Documents\UCE\estadistica\practicas_R\datosPeso.csv",header=T)
+data1<-read.csv("C:\\Users\\crmir\\Documents\\UCE\\estadistica\\practicas_R\\datosPeso.csv",header=T)
+data1
+save.image("C:\\Users\\crmir\\Documents\\UCE\\estadistica\\practicas_R\\importarCsv")
+data1
+q()
+dir()
